@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "description": "mangoes",
+        "amount": 500.0,
+        "category": "food",
+        "date": "2007-3-05"
+    },
+    {
+        "id": 2,
+        "description": "travel",
+        "amount": 3000.0,
+        "category": "travel",
+        "date": "2008-5-04"
+    }
+]
